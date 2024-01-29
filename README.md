@@ -6,3 +6,4 @@ test PR 3 -> fail
 test PR 4 -> fail
 test PR 5 -> success
 test PR 6 -> getting comment contents
+test PR 7-> final test
