@@ -10,3 +10,4 @@ test PR 7 -> final test
 test PR 8 -> changed private key path
 test PR 9 -> working test
 test PR -> ts test
+test PR 11
